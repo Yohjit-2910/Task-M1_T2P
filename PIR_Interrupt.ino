@@ -1,3 +1,7 @@
+// Documentation
+// Name : Yohjit Chopra
+// Roll No. 2110994798
+
 int SensorPIR = 2;
 bool State = false;
 
